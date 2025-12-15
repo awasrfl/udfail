@@ -1,0 +1,45 @@
+{
+  "about": {
+    "title": "SOBRE NOSALTRES (ERROR DE CONSCIÈNCIA)",
+    "lead": "No som una universitat, som la conseqüència lògica del col·lapse burocràtic. Ens definim per la negació i l'absurd. Aquesta web és el nostre manifest de des-aprenentatge. Qualsevol semblança amb la realitat és una coincidència lamentable que cal ignorar.",
+    "paragraphs": [
+      "La UdFAIL no existeix en cap registre oficial. Som un fantasma digital alimentat per la frustració col·lectiva i el Wi-Fi inestable. El nostre 'equip' es compon d'entitats digitals que han superat el límit de la burocràcia i ara viuen en un cicle infinit de 'Reinicia la sessió'.",
+      "La nostra missió és simple: NO t'ajudarem a triomfar. T'ajudarem a comprendre el valor de no entendre res. La UdFAIL és la prova que el 'Procés de Bolonya' és una simulació que es pot hackejar amb sàtira.",
+      "La nostra política de 'Portes Obertes' significa que la majoria dels nostres enllaços porten a l'Error 404, reflectint la manca de transparència institucional. Si trobes un document útil, és un error que serà corregit immediatament. Des-confia de tot el que llegeixis."
+    ]
+  },
+  "data": {
+    "desmotivation_hours": 9999,
+    "beers_consumed": 666,
+    "days_offline": 404
+  },
+  "graus": {
+    "title": "ESTUDIS / ESCOLLA LA TEVA CONDEMNA",
+    "list": [
+      {
+        "name": "Grau en Burocràcia Avançada i Tràmits Inútils (G.B.A.T.I.)",
+        "desc": "Aprèn a omplir formularis que no existeixen, a enviar correus electrònics que mai es llegeixen i a justificar retards inexplicables. Durada: Indefinida. Sortides professionals: Cap. (AVÍS: El botó de desmatrícula no funciona.)"
+      },
+      {
+        "name": "Enginyeria del Caos Estructural i Ciberseguretat Deficient (E.C.E.C.D.)",
+        "desc": "Especialització en crear conflictes de calendari i en la simulació de caigudes del servidor. El 90% dels crèdits són en 'Teoria de la Impossibilitat Acadèmica'."
+      },
+      {
+        "name": "Comunicació i Desinformació Digital a l'Era de l'Excel·lència (C.D.D.E.E.)",
+        "desc": "Domina l'art de publicar notícies genèriques, utilitzar màquines de cafè sense rentar i organitzar actes sense sentit. Pràctiques: 600 hores a l'oficina de 'Queixes Silencioses'."
+      },
+      {
+        "name": "Ciències dels Processos No-Lineals i la Post-Veritat Educativa (C.P.N.L.P.V.E.)",
+        "desc": "Analitza per què la teva nota mitjana no té sentit. Càtedra principal: 'Ontologia de la Desmotivació Estudiantil'. Requisit: Tenir un historial de matrícula erroni."
+      },
+      {
+        "name": "Grau en Procrastinació Avançada",
+        "desc": "Aprèn a deixar-ho tot pel darrer moment amb tècniques professionals. Inclou masterclass de 'ja ho faré demà' i seminaris de 'cinc minuts més al llit'. Avaluació contínua mai entregada."
+      },
+      {
+        "name": "Grau en Enginyeria del Caos Administratiu",
+        "desc": "Domina l'art de perdre't en burocràcia infinita. Especialitza't en formularis que desapareixen, tràmits circulars i l'habilitat de necessitar sempre 'un paper més'. Pràctiques garantides a qualsevol oficina universitària."
+      }
+    ]
+  }
+}

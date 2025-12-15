@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Descobreixen cafeteria subterrània amb Wi‑Fi il·legal",
+    "excerpt": "Font no oficial: un grup d'estudiants ha transformat un soterrani en centre social amb taules de ping‑pong i connexió inestable.",
+    "img": "/cafeteria subterrania.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Hackers canvien horari de classes per error tipogràfic",
+    "excerpt": "Un missatge automàtic ha avançat totes les classes una hora. Confusió general i noves amistats a les portes d'aula.",
+    "img": "/hacker.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Nova assignatura: 'Gestió Emocional del Butlletí de Notes'",
+    "excerpt": "Programa experimental amb tècniques de respiració i mems per sobreviure a objectius no assolits.",
+    "img": "/gestionemocional.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Exalumne ven masterclass sobre 'Com fer la fotocòpia perfecta'",
+    "excerpt": "Inclou plantilles descarregables i história personal amb gràfics emocionals.",
+    "img": "/fotocopia perfecta.jpg"
+  },
+  {
+    "id": 5,
+    "title": "El campus tanca per invasió de gats salvatges",
+    "excerpt": "Les autoritats no poden fer front a l'emergència felina. Les classes es reanuden en format 'miol'.",
+    "img": "/gats.jpg"
+  },
+  {
+    "id": 6,
+    "title": "El wifi de la biblioteca ha estat reemplaçat per missatgers de colom",
+    "excerpt": "Amb l'objectiu de 'fomentar la interacció orgànica'. Velocitat de connexió: 0.01 kbps.",
+    "img": "/missatgers colom.jpg"
+  }
+]
